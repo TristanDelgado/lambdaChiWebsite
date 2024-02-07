@@ -1,0 +1,29 @@
+Build a website for the fake computer science department or other departments (Marvels, Justice Leagues....). The following are the requirements. 
+
+Your website should use HTML and CSS
+
+The website has a main page, index.html
+There is a navigation on the main page containing a few categories.
+
+Faculty/Staff
+This webpage uses tables to display the faculty photos and their biography. 
+
+Courses
+Use unordered or ordered lists to introduce the CS courses
+Application/Admission
+This webpage is used to apply for the CS major, it has forms to fill in the application. At least the application form has the following areas.
+First name and last name
+Email address
+Address: address number, city, state, zipcode
+Interest area: use the selection
+Has a submit button (Just a button, no function will be triggered)
+
+About us
+Introduction to computer science
+Use an image as the background
+Has an “Email Me” function, when the button is clicked, the email application will present
+
+CSS code should be placed in an independent file
+More content is encouraged to be displayed on your webpage 
+Your webpage is supposed to be validated by the W3C validator: https://validator.w3.org Links to an external site.. The screenshot of the validation results should be submitted along with your source code.
+Everyone is required to use GitHub to build a webpage and send me your Github Link 

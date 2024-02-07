@@ -1,0 +1,39 @@
+h1 {
+    font: 'Lucida Sans';
+    color: rgb(09, 61, 32);
+    -webkit-text-stroke: 1px #FFB71D;
+    font-size: 145px;
+    text-align: center;
+    border-bottom: 0px;
+    display: inline-block;
+    height: 0px;
+}
+
+h2 {
+    font: 'Lucida Sans';
+    font-size: 50px;
+    color: rgb(09, 61, 32);
+    text-align: center;
+}
+
+h3 {
+    font: 'Lucida Sans';
+    font-size: 20px;
+    color: rgb(09, 61, 32);
+    text-align: center;
+}
+
+li {
+    font: 'Lucida Sans';
+    font-size: 20px;
+    color: rgb(09, 61, 32);
+    display: inline;
+    margin: 10px 40px;
+}
+
+.list {
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
