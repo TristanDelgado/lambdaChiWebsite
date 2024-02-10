@@ -4,9 +4,29 @@
         <meta charset="utf-8">
         <title>Apply Now</title>
         <link rel="icon" type="image/png" href="../Images/CrossCresent.png">
+        <link rel="stylesheet" type="text/css" href="../css/apply.css">
     </head>
 
     <body>
         <h1>Apply Now</h1>
+        <form>
+            <label for="fname">First Name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="lname">Last Name:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+            <label for="email">Email:</label><br>
+            <input type="text" id="email" name="email"><br>
+            <label for="address">Address:</label><br>
+            <input type="text" id="address" name="streetaddress" placeholder="Street Address"><br>
+            <input type="text" id="city" name="city" placeholder="City"><br>
+            <input type="text" id="state" name="state" placeholder="State"><br>
+            <input type="text" id="zip-code" name="zip-code" placeholder="Zip Code"><br>
+            <label for="radio">Are you a legacy?</label><br>
+            <input type="radio" id="is-legacy" name="is-legacy">
+            <label for="is-legacy">Yes</label><br>
+            <input type="radio" id="not-legacy" name="not-legacy">
+            <label for="not-legacy">No</label><br>
+            <input type="submit" value="Submit">
+        </form>
     </body>
 </html>

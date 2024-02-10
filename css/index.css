@@ -1,39 +1,41 @@
+body {
+    background-color:rgb(183, 183, 183);
+}
+
 h1 {
-    font: 'Lucida Sans';
+    font: "Lucida Sans";
     color: rgb(09, 61, 32);
     -webkit-text-stroke: 1px #FFB71D;
     font-size: 145px;
     text-align: center;
-    border-bottom: 0px;
-    display: inline-block;
-    height: 0px;
+    height: 100px;
 }
 
 h2 {
-    font: 'Lucida Sans';
-    font-size: 50px;
+    font: "Lucida Sans";
+    font-size: 3.125em;
     color: rgb(09, 61, 32);
     text-align: center;
 }
 
 h3 {
-    font: 'Lucida Sans';
-    font-size: 20px;
+    font: "Lucida Sans";
+    font-size: 1.25em;
     color: rgb(09, 61, 32);
     text-align: center;
 }
 
 li {
-    font: 'Lucida Sans';
-    font-size: 20px;
+    font: "Lucida Sans";
+    font-size: 1.25em;
     color: rgb(09, 61, 32);
     display: inline;
-    margin: 10px 40px;
+    margin: 0.625em 2.5em;
 }
 
 .list {
     text-align: center;
-    margin-right: 20px;
-    margin-left: 20px;
+    margin-right: 1.25em;
+    margin-left: 1.25em;
 }
 

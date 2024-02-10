@@ -1,0 +1,22 @@
+body {
+    background-color:  rgb(183, 183, 183);
+}
+
+h1 {
+    font: "Lucida Sans";
+    color: rgb(09, 61, 32);
+    -webkit-text-stroke: 1px #FFB71D;
+    font-size: 145px;
+    text-align: center;
+}
+
+form {
+    text-align:center;
+    font-size: 1.5em;
+}
+input{
+    margin: .5em;
+}
+input[type="submit"] {
+    margin-bottom: 10em;
+}
