@@ -24,8 +24,8 @@ hr {
 
 .flex-container > img{
     margin: 1.25em; 
-    max-width: 80%;
-    max-height: 80%;  
+    max-width: 15em;
+    max-height: 20em;  
 }
 .flex-container > ul {
     margin: 1em; 
